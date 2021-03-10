@@ -10,6 +10,9 @@
       <Platform>Win32</Platform>
     </ProjectConfiguration>
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="hello world.c" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{332B5B94-1D7B-4F99-AE3F-BED0779B921B}</ProjectGuid>
     <RootNamespace>허민</RootNamespace>
