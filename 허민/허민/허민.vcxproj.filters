@@ -15,10 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="printVariables.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="add.c">
+    <ClCompile Include="과제1_88p_2-2.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
