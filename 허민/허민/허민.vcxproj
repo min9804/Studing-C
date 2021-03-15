@@ -11,7 +11,8 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="hello world.c" />
+    <ClCompile Include="add.c" />
+    <ClCompile Include="printVariables.c" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{332B5B94-1D7B-4F99-AE3F-BED0779B921B}</ProjectGuid>

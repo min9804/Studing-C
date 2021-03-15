@@ -15,7 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="hello world.c">
+    <ClCompile Include="printVariables.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="add.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

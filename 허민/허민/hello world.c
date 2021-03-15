@@ -1,11 +1,10 @@
 #include <stdio.h>
 #include <conio.h>
 
-int main(void)
+void main(void)
 {
-	printf("Hello World!\nMin Her");
-	_getch();
+	printf("Hello World!\n");
 
-	return 0;
+	_getch();
 }
 
