@@ -11,7 +11,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="과제1_88p_2-2.c" />
+    <ClCompile Include="helloWorld.c" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{332B5B94-1D7B-4F99-AE3F-BED0779B921B}</ProjectGuid>
