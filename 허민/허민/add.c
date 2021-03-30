@@ -1,16 +1,20 @@
 #include <stdio.h>
 #include <conio.h>
 
-void main(void)
-{
-	int x;
-	int y;
-	int sum;
+int a, b;
 
-	x = 100000000;
-	y = 20;
-	sum = x + y;
-	printf("\n %d과 %d의 합=%d\n", x, y, sum);
+int add()
+{
+	return(a + b);
+}
+
+void main()
+{
+	int sum;
+	a = 2;
+	b = 4;
+	sum = add();
+	printf("수의 합은 %d\n", sum);
 
 	_getch();
 }
